@@ -35,7 +35,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h2>Simple Github Actions CI/CD example</h2>
+        <h2>Simple Github Actions CI/CD deployed in Vercel</h2>
       </div>
       <div>
         <a
@@ -46,7 +46,7 @@ export default function Home() {
           {" "}
           <Image
             src="/logotype.png"
-            alt="Manuel Logo"
+            alt="Manuel Paiva Logo"
             width={100}
             height={100}
           />
